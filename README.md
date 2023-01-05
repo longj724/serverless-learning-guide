@@ -1,4 +1,4 @@
-The objective of this repository is to learn about the serverless architecture. I am doing this by writing a guide to serverless and building a URL shortener using Google Cloud functions. This repo is a continued work-in-progress as I learn more about serverless. The current URL shortener, which I label as a "URL converter" as I don't currently own a custom domain to ensure the shortened url is shorter than the original, is hosted at https://cloud-function-tutorial-58f26.web.app/ .
+The objective of this repository is to learn about serverless computing. Below is a guide to serverless computing that I wrote, outlining what it is along with its pros and cons. The code in this repo is for a URL shortener I built using Google Cloud Functions to get hands-on experience with serverless (A more suitable name for the URL shortener is "URL Converter" as I don't own a custom domain to ensure the shortened URL is shorter than the original). The URL shortener is hosted at https://cloud-function-tutorial-58f26.web.app/ .
 
 # What is Serverless?
 
